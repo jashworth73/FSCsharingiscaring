@@ -1,0 +1,165 @@
+MAC 11111 not found in the FSC Sharing is Caring system.
+Cannot Perform LINK Command:
+	MAC 11111 - This MAC Address is not in the FSC Sharing is Caring system.
+	MAC 22222 - This MAC Address is not in the FSC Sharing is Caring system.
+Cannot Perform UNLINK Command:
+	MAC 11111 - This MAC Address is not in the FSC Sharing is Caring system.
+	MAC 22222 - This MAC Address is not in the FSC Sharing is Caring system.
+Cannot Perform QUIT Command:
+	MAC 11111 not found in the FSC Sharing is Caring system.
+Cannot Perform SHOWCONNECTIONS Command:
+	MAC 11111 - This MAC Address is not in the FSC Sharing is Caring system.
+Cannot Perform PRINTMEMBERS Command:
+	There are currently no participants in the FSC Sharing is Caring system.
+Cannot Perform MOVEDEVICES Command:
+	There are currently no participants in the FSC Sharing is Caring system.
+NAIDA RAGHUNANDAN, MAC 1289539, joined the FSC Sharing is Caring system.
+JOEY NARAGON, MAC 1284922, joined the FSC Sharing is Caring system.
+LONI SITTERDING, MAC 1294389, joined the FSC Sharing is Caring system.
+REID BEDNAR, MAC 1256183, joined the FSC Sharing is Caring system.
+HEIDE CARRETTA, MAC 1260460, joined the FSC Sharing is Caring system.
+COLEMAN LINDENBERG, MAC 1279475, joined the FSC Sharing is Caring system.
+FLORENCE STHILL, MAC 1295957, joined the FSC Sharing is Caring system.
+MAC 1295957 and MAC 1256183 are now linked.
+WEI STANCZAK, MAC 1295564, joined the FSC Sharing is Caring system.
+MAC 1294389 has no links.
+MAC 1284922 has no links.
+DANILO DEEDRICK, MAC 1263927, joined the FSC Sharing is Caring system.
+All devices successfully moved.
+All devices successfully moved.
+Cannot Perform LINK Command:
+	MAC 1285126 - This MAC Address is not in the FSC Sharing is Caring system.
+	MAC 1254789 - This MAC Address is not in the FSC Sharing is Caring system.
+All devices successfully moved.
+MAC 1263927 has no links.
+MAC 1284922 has no links.
+Connections for MAC 1295957, FLORENCE STHILL, currently at position (4, 2):
+	There are a total of 1 link(s).
+	There are 1 active link(s) within the broadcast range of 88:
+		MAC 1256183, REID BEDNAR, currently at position (7, 5)
+MAC 1279475 and MAC 1279475 are now linked.
+Cannot Perform LINK Command:
+	MAC 1287038 - This MAC Address is not in the FSC Sharing is Caring system.
+	MAC 1287947 - This MAC Address is not in the FSC Sharing is Caring system.
+Found:  MAC 1289539, NAIDA RAGHUNANDAN, currently at position (0, 2), 0 Links
+MAC 1260460 and MAC 1256183 are now linked.
+MAC 1279475 and MAC 1294389 are now linked.
+Cannot Perform JOIN Command:
+	MAC 1263927, DANILO DEEDRICK - already a participant in the FSC Sharing is Caring system.
+Cannot Perform LINK Command:
+	MAC 1257992 - This MAC Address is not in the FSC Sharing is Caring system.
+	MAC 1296156 - This MAC Address is not in the FSC Sharing is Caring system.
+MAC 1256183 and MAC 1295564 are now linked.
+MAC 1256183 and MAC 1256183 are now linked.
+MAC 1263927 has no links.
+MAC 1295564 and MAC 1260460 are now linked.
+Connections for MAC 1256183, REID BEDNAR, currently at position (7, 5):
+	There are a total of 5 link(s).
+	There are 5 active link(s) within the broadcast range of 70:
+		MAC 1256183, REID BEDNAR, currently at position (7, 5)
+		MAC 1256183, REID BEDNAR, currently at position (7, 5)
+		MAC 1260460, HEIDE CARRETTA, currently at position (16, 15)
+		MAC 1295564, WEI STANCZAK, currently at position (17, 18)
+		MAC 1295957, FLORENCE STHILL, currently at position (4, 2)
+JENNI LEAFE, MAC 1278710, joined the FSC Sharing is Caring system.
+CHANG DENIO, MAC 1264384, joined the FSC Sharing is Caring system.
+MAC 1260460 and MAC 1279475 are now linked.
+MAC 1294389 and MAC 1256183 are now linked.
+MAC 1279475 and MAC 1284922 are now linked.
+Connections for MAC 1260460, HEIDE CARRETTA, currently at position (16, 15):
+	There are a total of 3 link(s).
+	There are 3 active link(s) within the broadcast range of 47:
+		MAC 1256183, REID BEDNAR, currently at position (7, 5)
+		MAC 1279475, COLEMAN LINDENBERG, currently at position (0, 7)
+		MAC 1295564, WEI STANCZAK, currently at position (17, 18)
+STACEY ARNALL, MAC 1254755, joined the FSC Sharing is Caring system.
+Found:  MAC 1264384, CHANG DENIO, currently at position (15, 3), 0 Links
+Found:  MAC 1254755, STACEY ARNALL, currently at position (9, 14), 0 Links
+Connections for MAC 1295564, WEI STANCZAK, currently at position (17, 18):
+	There are a total of 2 link(s).
+	There are 2 active link(s) within the broadcast range of 68:
+		MAC 1256183, REID BEDNAR, currently at position (7, 5)
+		MAC 1260460, HEIDE CARRETTA, currently at position (16, 15)
+MAC 1279475 and MAC 1256183 are now linked.
+CLAUD ZERZAN, MAC 1302925, joined the FSC Sharing is Caring system.
+Cannot Perform LINK Command:
+	MAC 1279475 and MAC 1279475 are already linked.
+MAC 1289539 has no links.
+MAC 1284922 has been removed from the FSC Sharing is Caring system.
+MAC 1264384 and MAC 1294389 are now linked.
+Found:  MAC 1254755, STACEY ARNALL, currently at position (9, 14), 0 Links
+MAC 1254755 has no links.
+Cannot Perform LINK Command:
+	MAC 1302448 - This MAC Address is not in the FSC Sharing is Caring system.
+	MAC 1264592 - This MAC Address is not in the FSC Sharing is Caring system.
+MAC 1302925 and MAC 1256183 are now linked.
+Connections for MAC 1295957, FLORENCE STHILL, currently at position (4, 2):
+	There are a total of 1 link(s).
+	There are 1 active link(s) within the broadcast range of 88:
+		MAC 1256183, REID BEDNAR, currently at position (7, 5)
+MAC 1256183 and MAC 1256183 are no longer linked.
+Cannot Perform UNLINK Command:
+	MAC 1275759 - This MAC Address is not in the FSC Sharing is Caring system.
+	MAC 1298624 - This MAC Address is not in the FSC Sharing is Caring system.
+Cannot Perform UNLINK Command:
+	MAC 1293202 - This MAC Address is not in the FSC Sharing is Caring system.
+	MAC 1274450 - This MAC Address is not in the FSC Sharing is Caring system.
+Cannot Perform LINK Command:
+	MAC 1256183 and MAC 1295564 are already linked.
+MAC 1260460 and MAC 1264384 are now linked.
+MAC 1256183 and MAC 1254755 are now linked.
+All devices successfully moved.
+Connections for MAC 1295564, WEI STANCZAK, currently at position (15, 11):
+	There are a total of 2 link(s).
+	There are 2 active link(s) within the broadcast range of 68:
+		MAC 1256183, REID BEDNAR, currently at position (6, 3)
+		MAC 1260460, HEIDE CARRETTA, currently at position (10, 16)
+Connections for MAC 1279475, COLEMAN LINDENBERG, currently at position (15, 14):
+	There are a total of 5 link(s).
+	There are 5 active link(s) within the broadcast range of 44:
+		MAC 1256183, REID BEDNAR, currently at position (6, 3)
+		MAC 1260460, HEIDE CARRETTA, currently at position (10, 16)
+		MAC 1279475, COLEMAN LINDENBERG, currently at position (15, 14)
+		MAC 1279475, COLEMAN LINDENBERG, currently at position (15, 14)
+		MAC 1294389, LONI SITTERDING, currently at position (1, 15)
+MAC 1289539 has no links.
+MAC 1294389 and MAC 1302925 are now linked.
+Connections for MAC 1279475, COLEMAN LINDENBERG, currently at position (15, 14):
+	There are a total of 5 link(s).
+	There are 5 active link(s) within the broadcast range of 44:
+		MAC 1256183, REID BEDNAR, currently at position (6, 3)
+		MAC 1260460, HEIDE CARRETTA, currently at position (10, 16)
+		MAC 1279475, COLEMAN LINDENBERG, currently at position (15, 14)
+		MAC 1279475, COLEMAN LINDENBERG, currently at position (15, 14)
+		MAC 1294389, LONI SITTERDING, currently at position (1, 15)
+PATSY MANNES, MAC 1281149, joined the FSC Sharing is Caring system.
+Cannot Perform UNLINK Command:
+	MAC 1264384 and MAC 1264384 are not currently linked.
+Connections for MAC 1294389, LONI SITTERDING, currently at position (1, 15):
+	There are a total of 4 link(s).
+	There are 4 active link(s) within the broadcast range of 62:
+		MAC 1256183, REID BEDNAR, currently at position (6, 3)
+		MAC 1264384, CHANG DENIO, currently at position (8, 11)
+		MAC 1279475, COLEMAN LINDENBERG, currently at position (15, 14)
+		MAC 1302925, CLAUD ZERZAN, currently at position (16, 4)
+MAC 1279475 and MAC 1279475 are no longer linked.
+JO BRAYMER, MAC 1258361, joined the FSC Sharing is Caring system.
+All devices successfully moved.
+MAC 1289539 and MAC 1281149 are now linked.
+Cannot Perform UNLINK Command:
+	MAC 1279475 and MAC 1279475 are not currently linked.
+Members of FSC Sharing is Caring System:
+	MAC 1254755, STACEY ARNALL, currently at position (10, 7), 1 Link
+	MAC 1256183, REID BEDNAR, currently at position (14, 2), 7 Links
+	MAC 1258361, JO BRAYMER, currently at position (11, 3), 0 Links
+	MAC 1260460, HEIDE CARRETTA, currently at position (12, 12), 4 Links
+	MAC 1263927, DANILO DEEDRICK, currently at position (18, 16), 0 Links
+	MAC 1264384, CHANG DENIO, currently at position (5, 1), 2 Links
+	MAC 1278710, JENNI LEAFE, currently at position (9, 2), 0 Links
+	MAC 1279475, COLEMAN LINDENBERG, currently at position (12, 0), 3 Links
+	MAC 1281149, PATSY MANNES, currently at position (2, 19), 1 Link
+	MAC 1289539, NAIDA RAGHUNANDAN, currently at position (16, 19), 1 Link
+	MAC 1294389, LONI SITTERDING, currently at position (3, 12), 4 Links
+	MAC 1295564, WEI STANCZAK, currently at position (0, 1), 2 Links
+	MAC 1295957, FLORENCE STHILL, currently at position (1, 17), 1 Link
+	MAC 1302925, CLAUD ZERZAN, currently at position (7, 14), 2 Links
